@@ -1,2 +1,2 @@
 # kolstrup.io
-For project Kolstrup.io
+## This is a super awesome project
